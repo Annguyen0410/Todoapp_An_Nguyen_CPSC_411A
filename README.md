@@ -131,8 +131,8 @@ TodoApp (Stateful)
 
 ## Author
 
-**Ann Nguyen**  
-CPSC 471a - Foundation of Android Development
+**An Nguyen**  
+CPSC 411A - Mobile Device Appilcation Programming for Android
 
 ---
 
